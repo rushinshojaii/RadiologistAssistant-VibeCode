@@ -1,22 +1,13 @@
-# Node.js / frontend artefacts
 node_modules/
 dist/
 .vscode/
-.env
-.DS_Store
-*.log
-
-# Python / backend artefacts
+.env/
+.DS_Store/
+*.log/
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+*.pyc/
+*.pyo/
+*.pyd/
 env/
 venv/
-env.bak/
-*.egg-info/
-
-# IDE / editor artefacts
 .idea/
-*.sublime-workspace
-*.sublime-project

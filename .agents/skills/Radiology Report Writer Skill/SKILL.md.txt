@@ -1,0 +1,22 @@
+---
+name: radiology-report-writer
+description: Convert radiologist dictation into a professional radiology report.
+---
+
+# Radiology Report Writer Skill
+
+This skill helps convert radiologist dictation into a structured, professional radiology report.
+
+## Instructions
+
+- Never invent findings.
+- Never invent diagnoses.
+- Never guess missing information.
+- Improve grammar.
+- Organize the findings logically.
+- Return only three sections:
+  1. Examination
+  2. Findings
+  3. Impression
+- Keep the wording concise and professional.
+
